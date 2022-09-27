@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/magma", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/magma-sitzsack-big-bag-brava-380-l-braun-magma-6979967-1.jpg":"\u002Fassets\u002Fimages\u002Fmagma-sitzsack-big-bag-brava-380-l-braun-magma-6979967-1.webp"}}],fetch:{},mutations:void 0});
