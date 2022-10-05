@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "wohn-textilien24.de",
+    "hostname": "https://www.wohn-textilien24.de/",
+    "email": "wohn-textilien24.desurrealnetworks.io",
+    "organization": "wohn-textilien24.de",
+    "logoText": "Wohn-textilien24.de",
+    "title": "Wohntextilien",
+    "subline": "Der Online Shop f\u00fcr Wohntextilien",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "3925245",
+        "7556517",
+        "1349737",
+        "1347665",
+        "1348507",
+        "3782208"
+    ],
+    "winnerProducts": [
+        "1347665",
+        "1350479",
+        "3782208"
+    ],
+    "featuredCategories": [
+        "Sitzs\u00e4cke",
+        "T\u00fcrvorh\u00e4nge",
+        "Sitzs\u00e4cke",
+        "T\u00fcrvorh\u00e4nge",
+        "Kissen & Kissenbez\u00fcge",
+        "T\u00fcrvorh\u00e4nge"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Wohntextilien",
-        "featureText": "Your featured text goes here",
+        "featureText": "In unserem Shop finden Sie alles, was Sie f\u00fcr Ihr Zuhause brauchen. Wir f\u00fchren eine gro\u00dfe Auswahl an Wohntextilien wie Bettw\u00e4sche, Handt\u00fccher, Tischw\u00e4sche, Vorh\u00e4nge und Kissen. Unsere Produkte sind von h\u00f6chster Qualit\u00e4t und wir bieten Ihnen faire Preise.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Wohntextilien: Bettw\u00e4sche, Handt\u00fccher & mehr",
+            "metaDescription": "Wohntextilien-Shop: Vorh\u00e4nge, Teppiche, Bettw\u00e4sche & mehr. Kaufen Sie hochwertige Wohntextilien zu g\u00fcnstigen Preisen online!",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Wohntextilien: Die besten Heimtextilien f\u00fcr Ihr Zuhause",
+                    "text": "Wohntextilien sind ein wesentlicher Bestandteil der Einrichtung eines Hauses oder einer Wohnung. Sie dienen nicht nur der Funktion, sondern auch der \u00c4sthetik. Die Auswahl der richtigen Wohntextilien ist daher eine wichtige Entscheidung.\n\nDie erste Frage, die man sich stellen sollte, ist, welchen Zweck die Textilien erf\u00fcllen sollen. Sollten sie vor allem praktisch sein oder soll das Design im Vordergrund stehen? Je nachdem, was man bevorzugt, kann man sich f\u00fcr unterschiedliche Materialien entscheiden. Funktionale Textilien sollten aus pflegeleichtem und robustem Material sein, w\u00e4hrend sich f\u00fcr Deko-Textilien eher weiche und anschmiegsame Stoffe eignen.\n\nEin weiterer wichtiger Punkt ist die Farbe. Hier gilt es, die eigenen Vorlieben zu ber\u00fccksichtigen. Wer es gerne klassisch mag, kann sich f\u00fcr neutrale T\u00f6ne entscheiden, w\u00e4hrend auff\u00e4lligere Farben eher f\u00fcr Menschen geeignet sind, die ihr Zuhause gerne farbenfroh gestalten.\n\nDie Form der Textilien ist ebenfalls ein wichtiges Kriterium. Viele Menschen entscheiden sich f\u00fcr klassische Formen wie Quadrate oder Rechtecke, aber auch abstraktere Formen sind m\u00f6glich. Wichtig ist nur, dass die Form zum Gesamtbild der Einrichtung passt.\n\nZu guter Letzt sollte man auch die Gr\u00f6\u00dfe der Textilien ber\u00fccksichtigen. Hier gilt es, die jeweilige Funktion zu ber\u00fccksichtigen. Vor"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Wohntextilien Shop: Bettw\u00e4sche, Handt\u00fccher & mehr",
+            "metaDescription": "Wohntextilien Shop - Hier findest du alles f\u00fcr dein Zuhause! Bettw\u00e4sche, Handt\u00fccher, Deko und vieles mehr.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Wohntextilien-Hersteller: Die besten Marken",
+            "metaDescription": "Wohntextilien-Hersteller bietet eine gro\u00dfe Auswahl an hochwertigen Heimtextilien f\u00fcr jeden Geschmack.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Wohntextilien: $PRODUKT",
+        "defaultMetaDescription": "Wohntextilien von $HERSTELLER f\u00fcr $KATEGORIE. Jetzt $PRODUKT online bestellen!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Wohntextilien f\u00fcr $KATEGORIE",
+        "defaultMetaDescription": "Wohntextilien f\u00fcr jeden Geschmack: Bettw\u00e4sche, Handt\u00fccher, Tischw\u00e4sche und mehr. Jetzt $KATEGORIE online bestellen!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "Wohntextilien von $HERSTELLER - hochwertige Bettw\u00e4sche, Handt\u00fccher, Tischw\u00e4sche und mehr f\u00fcr Ihr Zuhause.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Wohntextilien",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Wohntextilien Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Wohntextilien Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
