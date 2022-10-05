@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/sonstige", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/gefuelltes-kissen-40-cm-x-40-cm-blumen-weisz-grau-sonstige-7556517-1.jpg":"\u002Fassets\u002Fimages\u002Fgefuelltes-kissen-40-cm-x-40-cm-blumen-weisz-grau-sonstige-7556517-1.webp"}}],fetch:{},mutations:void 0});
