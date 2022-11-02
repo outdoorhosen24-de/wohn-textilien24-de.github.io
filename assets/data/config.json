@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "wohn-textilien24.de",
     "hostname": "https://www.wohn-textilien24.de/",
     "email": "wohn-textilien24.desurrealnetworks.io",
     "organization": "wohn-textilien24.de",
     "logoText": "Wohn-textilien24.de",
     "title": "Wohntextilien",
-    "subline": "Der Online Shop f\u00fcr Wohntextilien",
+    "subline": "Der Online Shop für Wohntextilien",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -28,12 +28,12 @@
         "3782208"
     ],
     "featuredCategories": [
-        "Sitzs\u00e4cke",
-        "T\u00fcrvorh\u00e4nge",
-        "Sitzs\u00e4cke",
-        "T\u00fcrvorh\u00e4nge",
-        "Kissen & Kissenbez\u00fcge",
-        "T\u00fcrvorh\u00e4nge"
+        "Sitzsäcke",
+        "Türvorhänge",
+        "Sitzsäcke",
+        "Türvorhänge",
+        "Kissen & Kissenbezüge",
+        "Türvorhänge"
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
@@ -46,48 +46,48 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Wohntextilien",
-        "featureText": "In unserem Shop finden Sie alles, was Sie f\u00fcr Ihr Zuhause brauchen. Wir f\u00fchren eine gro\u00dfe Auswahl an Wohntextilien wie Bettw\u00e4sche, Handt\u00fccher, Tischw\u00e4sche, Vorh\u00e4nge und Kissen. Unsere Produkte sind von h\u00f6chster Qualit\u00e4t und wir bieten Ihnen faire Preise.",
+        "featureText": "In unserem Shop finden Sie alles, was Sie für Ihr Zuhause brauchen. Wir führen eine große Auswahl an Wohntextilien wie Bettwäsche, Handtücher, Tischwäsche, Vorhänge und Kissen. Unsere Produkte sind von höchster Qualität und wir bieten Ihnen faire Preise.",
         "index": {
-            "title": "Wohntextilien: Bettw\u00e4sche, Handt\u00fccher & mehr",
-            "metaDescription": "Wohntextilien-Shop: Vorh\u00e4nge, Teppiche, Bettw\u00e4sche & mehr. Kaufen Sie hochwertige Wohntextilien zu g\u00fcnstigen Preisen online!",
+            "title": "Wohntextilien: Bettwäsche, Handtücher & mehr",
+            "metaDescription": "Wohntextilien-Shop: Vorhänge, Teppiche, Bettwäsche & mehr. Kaufen Sie hochwertige Wohntextilien zu günstigen Preisen online!",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Wohntextilien: Die besten Heimtextilien f\u00fcr Ihr Zuhause",
-                    "text": "Wohntextilien sind ein wesentlicher Bestandteil der Einrichtung eines Hauses oder einer Wohnung. Sie dienen nicht nur der Funktion, sondern auch der \u00c4sthetik. Die Auswahl der richtigen Wohntextilien ist daher eine wichtige Entscheidung.\n\nDie erste Frage, die man sich stellen sollte, ist, welchen Zweck die Textilien erf\u00fcllen sollen. Sollten sie vor allem praktisch sein oder soll das Design im Vordergrund stehen? Je nachdem, was man bevorzugt, kann man sich f\u00fcr unterschiedliche Materialien entscheiden. Funktionale Textilien sollten aus pflegeleichtem und robustem Material sein, w\u00e4hrend sich f\u00fcr Deko-Textilien eher weiche und anschmiegsame Stoffe eignen.\n\nEin weiterer wichtiger Punkt ist die Farbe. Hier gilt es, die eigenen Vorlieben zu ber\u00fccksichtigen. Wer es gerne klassisch mag, kann sich f\u00fcr neutrale T\u00f6ne entscheiden, w\u00e4hrend auff\u00e4lligere Farben eher f\u00fcr Menschen geeignet sind, die ihr Zuhause gerne farbenfroh gestalten.\n\nDie Form der Textilien ist ebenfalls ein wichtiges Kriterium. Viele Menschen entscheiden sich f\u00fcr klassische Formen wie Quadrate oder Rechtecke, aber auch abstraktere Formen sind m\u00f6glich. Wichtig ist nur, dass die Form zum Gesamtbild der Einrichtung passt.\n\nZu guter Letzt sollte man auch die Gr\u00f6\u00dfe der Textilien ber\u00fccksichtigen. Hier gilt es, die jeweilige Funktion zu ber\u00fccksichtigen. Vor"
+                    "title": "Wohntextilien: Die besten Heimtextilien für Ihr Zuhause",
+                    "text": "Wohntextilien sind ein wesentlicher Bestandteil der Einrichtung eines Hauses oder einer Wohnung. Sie dienen nicht nur der Funktion, sondern auch der Ästhetik. Die Auswahl der richtigen Wohntextilien ist daher eine wichtige Entscheidung.\n\nDie erste Frage, die man sich stellen sollte, ist, welchen Zweck die Textilien erfüllen sollen. Sollten sie vor allem praktisch sein oder soll das Design im Vordergrund stehen? Je nachdem, was man bevorzugt, kann man sich für unterschiedliche Materialien entscheiden. Funktionale Textilien sollten aus pflegeleichtem und robustem Material sein, während sich für Deko-Textilien eher weiche und anschmiegsame Stoffe eignen.\n\nEin weiterer wichtiger Punkt ist die Farbe. Hier gilt es, die eigenen Vorlieben zu berücksichtigen. Wer es gerne klassisch mag, kann sich für neutrale Töne entscheiden, während auffälligere Farben eher für Menschen geeignet sind, die ihr Zuhause gerne farbenfroh gestalten.\n\nDie Form der Textilien ist ebenfalls ein wichtiges Kriterium. Viele Menschen entscheiden sich für klassische Formen wie Quadrate oder Rechtecke, aber auch abstraktere Formen sind möglich. Wichtig ist nur, dass die Form zum Gesamtbild der Einrichtung passt.\n\nZu guter Letzt sollte man auch die Größe der Textilien berücksichtigen. Hier gilt es, die jeweilige Funktion zu berücksichtigen. Vor"
                 }
             ]
         },
         "shop": {
-            "title": "Wohntextilien Shop: Bettw\u00e4sche, Handt\u00fccher & mehr",
-            "metaDescription": "Wohntextilien Shop - Hier findest du alles f\u00fcr dein Zuhause! Bettw\u00e4sche, Handt\u00fccher, Deko und vieles mehr.",
+            "title": "Wohntextilien Shop: Bettwäsche, Handtücher & mehr",
+            "metaDescription": "Wohntextilien Shop - Hier findest du alles für dein Zuhause! Bettwäsche, Handtücher, Deko und vieles mehr.",
             "robots": "index, follow"
         },
         "hersteller": {
             "title": "Wohntextilien-Hersteller: Die besten Marken",
-            "metaDescription": "Wohntextilien-Hersteller bietet eine gro\u00dfe Auswahl an hochwertigen Heimtextilien f\u00fcr jeden Geschmack.",
+            "metaDescription": "Wohntextilien-Hersteller bietet eine große Auswahl an hochwertigen Heimtextilien für jeden Geschmack.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
         "defaultTitle": "Wohntextilien: $PRODUKT",
-        "defaultMetaDescription": "Wohntextilien von $HERSTELLER f\u00fcr $KATEGORIE. Jetzt $PRODUKT online bestellen!",
+        "defaultMetaDescription": "Wohntextilien von $HERSTELLER für $KATEGORIE. Jetzt $PRODUKT online bestellen!",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Wohntextilien f\u00fcr $KATEGORIE",
-        "defaultMetaDescription": "Wohntextilien f\u00fcr jeden Geschmack: Bettw\u00e4sche, Handt\u00fccher, Tischw\u00e4sche und mehr. Jetzt $KATEGORIE online bestellen!",
+        "defaultTitle": "Wohntextilien für $KATEGORIE",
+        "defaultMetaDescription": "Wohntextilien für jeden Geschmack: Bettwäsche, Handtücher, Tischwäsche und mehr. Jetzt $KATEGORIE online bestellen!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "Wohntextilien von $HERSTELLER - hochwertige Bettw\u00e4sche, Handt\u00fccher, Tischw\u00e4sche und mehr f\u00fcr Ihr Zuhause.",
+        "defaultMetaDescription": "Wohntextilien von $HERSTELLER - hochwertige Bettwäsche, Handtücher, Tischwäsche und mehr für Ihr Zuhause.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
