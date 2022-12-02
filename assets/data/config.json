@@ -51,12 +51,15 @@
             "title": "Wohntextilien: Bettwäsche, Handtücher & mehr",
             "metaDescription": "Wohntextilien-Shop: Vorhänge, Teppiche, Bettwäsche & mehr. Kaufen Sie hochwertige Wohntextilien zu günstigen Preisen online!",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Wohntextilien: Die besten Heimtextilien für Ihr Zuhause",
-                    "text": "Wohntextilien sind ein wesentlicher Bestandteil der Einrichtung eines Hauses oder einer Wohnung. Sie dienen nicht nur der Funktion, sondern auch der Ästhetik. Die Auswahl der richtigen Wohntextilien ist daher eine wichtige Entscheidung.\n\nDie erste Frage, die man sich stellen sollte, ist, welchen Zweck die Textilien erfüllen sollen. Sollten sie vor allem praktisch sein oder soll das Design im Vordergrund stehen? Je nachdem, was man bevorzugt, kann man sich für unterschiedliche Materialien entscheiden. Funktionale Textilien sollten aus pflegeleichtem und robustem Material sein, während sich für Deko-Textilien eher weiche und anschmiegsame Stoffe eignen.\n\nEin weiterer wichtiger Punkt ist die Farbe. Hier gilt es, die eigenen Vorlieben zu berücksichtigen. Wer es gerne klassisch mag, kann sich für neutrale Töne entscheiden, während auffälligere Farben eher für Menschen geeignet sind, die ihr Zuhause gerne farbenfroh gestalten.\n\nDie Form der Textilien ist ebenfalls ein wichtiges Kriterium. Viele Menschen entscheiden sich für klassische Formen wie Quadrate oder Rechtecke, aber auch abstraktere Formen sind möglich. Wichtig ist nur, dass die Form zum Gesamtbild der Einrichtung passt.\n\nZu guter Letzt sollte man auch die Größe der Textilien berücksichtigen. Hier gilt es, die jeweilige Funktion zu berücksichtigen. Vor"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Wohntextilien: Die besten Heimtextilien für Ihr Zuhause",
+                        "text": "Wohntextilien sind ein wesentlicher Bestandteil der Einrichtung eines Hauses oder einer Wohnung. Sie dienen nicht nur der Funktion, sondern auch der Ästhetik. Die Auswahl der richtigen Wohntextilien ist daher eine wichtige Entscheidung.\n\nDie erste Frage, die man sich stellen sollte, ist, welchen Zweck die Textilien erfüllen sollen. Sollten sie vor allem praktisch sein oder soll das Design im Vordergrund stehen? Je nachdem, was man bevorzugt, kann man sich für unterschiedliche Materialien entscheiden. Funktionale Textilien sollten aus pflegeleichtem und robustem Material sein, während sich für Deko-Textilien eher weiche und anschmiegsame Stoffe eignen.\n\nEin weiterer wichtiger Punkt ist die Farbe. Hier gilt es, die eigenen Vorlieben zu berücksichtigen. Wer es gerne klassisch mag, kann sich für neutrale Töne entscheiden, während auffälligere Farben eher für Menschen geeignet sind, die ihr Zuhause gerne farbenfroh gestalten.\n\nDie Form der Textilien ist ebenfalls ein wichtiges Kriterium. Viele Menschen entscheiden sich für klassische Formen wie Quadrate oder Rechtecke, aber auch abstraktere Formen sind möglich. Wichtig ist nur, dass die Form zum Gesamtbild der Einrichtung passt.\n\nZu guter Letzt sollte man auch die Größe der Textilien berücksichtigen. Hier gilt es, die jeweilige Funktion zu berücksichtigen. Vor"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Wohntextilien Shop: Bettwäsche, Handtücher & mehr",
