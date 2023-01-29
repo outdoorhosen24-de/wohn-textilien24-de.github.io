@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "wohn-textilien24.de",
     "hostname": "https://www.wohn-textilien24.de/",
     "email": "wohn-textilien24.de@surrealnetworks.io",
     "organization": "wohn-textilien24.de",
     "logoText": "Wohn-textilien24.de",
-    "title": "Wohntextilien",
-    "subline": "Der Online Shop für Wohntextilien",
+    "title": "Sitzsäcke",
+    "subline": "Für bequemes Sitzen in Ihrem Zuhause!",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Wohntextilien",
-        "featureText": "In unserem Shop finden Sie alles, was Sie für Ihr Zuhause brauchen. Wir führen eine große Auswahl an Wohntextilien wie Bettwäsche, Handtücher, Tischwäsche, Vorhänge und Kissen. Unsere Produkte sind von höchster Qualität und wir bieten Ihnen faire Preise.",
+        "featureText": "Willkommen in unserem Online Shop für Sitzsäcke & Co! Wir bieten Ihnen ein ausgesprochen umfangreiches Sortiment an Sitzsäcken zu günstigen Preisen. Hier findet jeder den passenden Sitzsack: unterschiedliche Formen, Größen, Farben und Stoffe.Bei uns finden Sie Produkte von Marken wie Sitting Ball, Sitting Point, Madison, Wenko, Sonstige und Magma. Überzeugen Sie sich selbst von der Qualität unserer Produkte. ",
         "index": {
-            "title": "Wohntextilien: Bettwäsche, Handtücher & mehr",
-            "metaDescription": "Wohntextilien-Shop: Vorhänge, Teppiche, Bettwäsche & mehr. Kaufen Sie hochwertige Wohntextilien zu günstigen Preisen online!",
+            "title": "Sitzsäcke & Co. | Günstig online bestellen ",
+            "metaDescription": "Entdecken sie eine unglaubliche Vielfalt an verschiedenen Sitzsäcken. Bei uns werden Sie garantiert fündig! | Ganz einfach online bestellen.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Wohntextilien Shop: Bettwäsche, Handtücher & mehr",
-            "metaDescription": "Wohntextilien Shop - Hier findest du alles für dein Zuhause! Bettwäsche, Handtücher, Deko und vieles mehr.",
+            "title": "Der Shop für Sitzsäcke",
+            "metaDescription": "Finden Sie hier den perfekten Sitzsack für Ihr Zuhause. | Riesige Auswahl | Einfache Produktsuche | Faire Preise | Schnelle Lieferung ",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Wohntextilien-Hersteller: Die besten Marken",
-            "metaDescription": "Wohntextilien-Hersteller bietet eine große Auswahl an hochwertigen Heimtextilien für jeden Geschmack.",
+            "title": "Top Hersteller für Sitzsäcke!",
+            "metaDescription": "Finden Sie eine umfangreiche Herstellerliste für Sitzsäcke. Wir führen Markenanbieter wie Siting Point, Madison, Sitting Ball uvm.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Wohntextilien: $PRODUKT",
-        "defaultMetaDescription": "Wohntextilien von $HERSTELLER für $KATEGORIE. Jetzt $PRODUKT online bestellen!",
+        "defaultTitle": "$PRODUKT | günstig kaufen",
+        "defaultMetaDescription": "Entdecken Sie unsere Produkte von tollen Herstellern wie $HERSTELLER. Finden Sie weitere Top Angebote der Kategorie $KATEGORIE. Jetzt $PRODUKT online bestellen!",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Wohntextilien für $KATEGORIE",
-        "defaultMetaDescription": "Wohntextilien für jeden Geschmack: Bettwäsche, Handtücher, Tischwäsche und mehr. Jetzt $KATEGORIE online bestellen!",
+        "defaultTitle": "$KATEGORIE - eine riesige Auswahl",
+        "defaultMetaDescription": "$KATEGORIE für jeden Geschmack! Jetzt ganz einfach und bequem von zuhause online bestellen und liefern lassen.             ",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "Wohntextilien von $HERSTELLER - hochwertige Bettwäsche, Handtücher, Tischwäsche und mehr für Ihr Zuhause.",
+        "defaultTitle": "$HERSTELLER | Top Qualität zum fairen Preis",
+        "defaultMetaDescription": "Entdecken Sie die besten Produkte in einer hochwertigen Qualität von Herstellern wie $HERSTELLER. Hier schnell und günstig online bestellen.",
         "defaultRobots": "index, follow",
         "brands": [
             {
