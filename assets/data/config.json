@@ -52,11 +52,23 @@
             "metaDescription": "Entdecken sie eine unglaubliche Vielfalt an verschiedenen Sitzsäcken. Bei uns werden Sie garantiert fündig! | Ganz einfach online bestellen.",
             "robots": "index, follow",
             "seotext": {
-                "published": false,
+                "published": true,
                 "content": [
                     {
-                        "title": "Wohntextilien: Die besten Heimtextilien für Ihr Zuhause",
-                        "text": "Wohntextilien sind ein wesentlicher Bestandteil der Einrichtung eines Hauses oder einer Wohnung. Sie dienen nicht nur der Funktion, sondern auch der Ästhetik. Die Auswahl der richtigen Wohntextilien ist daher eine wichtige Entscheidung.\n\nDie erste Frage, die man sich stellen sollte, ist, welchen Zweck die Textilien erfüllen sollen. Sollten sie vor allem praktisch sein oder soll das Design im Vordergrund stehen? Je nachdem, was man bevorzugt, kann man sich für unterschiedliche Materialien entscheiden. Funktionale Textilien sollten aus pflegeleichtem und robustem Material sein, während sich für Deko-Textilien eher weiche und anschmiegsame Stoffe eignen.\n\nEin weiterer wichtiger Punkt ist die Farbe. Hier gilt es, die eigenen Vorlieben zu berücksichtigen. Wer es gerne klassisch mag, kann sich für neutrale Töne entscheiden, während auffälligere Farben eher für Menschen geeignet sind, die ihr Zuhause gerne farbenfroh gestalten.\n\nDie Form der Textilien ist ebenfalls ein wichtiges Kriterium. Viele Menschen entscheiden sich für klassische Formen wie Quadrate oder Rechtecke, aber auch abstraktere Formen sind möglich. Wichtig ist nur, dass die Form zum Gesamtbild der Einrichtung passt.\n\nZu guter Letzt sollte man auch die Größe der Textilien berücksichtigen. Hier gilt es, die jeweilige Funktion zu berücksichtigen. Vor"
+                        "title": "Willkommen bei Wohn-Textilien24 - Ihrem Online-Shop für Wohntextilien",
+                        "text": "Herzlich willkommen bei Wohn-Textilien24, Ihrem Online-Shop für hochwertige Wohntextilien. Bei uns finden Sie alles, was Sie für eine gemütliche und stilvolle Einrichtung benötigen. Von Sitzsäcken über Türvorhänge bis hin zu Kissen und Kissenbezügen bieten wir Ihnen eine große Auswahl an Produkten, die Ihrem Zuhause ein besonderes Flair verleihen. Alle unsere Wohntextilien sind aus hochwertigen Materialien gefertigt und bieten Ihnen ein angenehmes Sitz- und Liegegefühl. Stöbern Sie jetzt in unserem Sortiment und entdecken Sie Ihre neuen Lieblingsstücke für Ihr Zuhause!"
+                    },
+                    {
+                        "title": "Sitzsäcke",
+                        "text": "Wenn Sie auf der Suche nach einer bequemen und stylischen Sitzmöglichkeit sind, sind <a href=\"/kategorie/sitzsaecke/\" title=\"Sitzsäcke\">Sitzsäcke</a> genau das Richtige für Sie. In unserem Online-Shop finden Sie eine große Auswahl an Sitzsäcken in verschiedenen Farben, Größen und Materialien. Ob für das Wohnzimmer, das Kinderzimmer oder den Garten - mit einem Sitzsack von Wohn-Textilien24 machen Sie überall eine gute Figur. Stöbern Sie jetzt in unserem Sortiment und finden Sie Ihren neuen Lieblingssitzsack."
+                    },
+                    {
+                        "title": "Türvorhänge",
+                        "text": "<a href=\"/kategorie/tuervorhaenge/\" title=\"Türvorhänge\">Türvorhänge</a> sind eine einfache und effektive Möglichkeit, um den Eingang Ihres Zuhauses zu schmücken und zu schützen. Ob als Sichtschutz oder zur Kontrolle des Lichteinfalls - Türvorhänge sind vielseitig einsetzbar. In unserem Online-Shop finden Sie eine große Auswahl an Türvorhängen in verschiedenen Farben, Größen und Designs. Stöbern Sie jetzt in unserem Sortiment und finden Sie den perfekten Türvorhang für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Kissen & Kissenbezüge",
+                        "text": "Kissen und Kissenbezüge sind eine einfache Möglichkeit, um Ihr Zuhause zu verschönern und bequemer zu gestalten. In unserem Online-Shop finden Sie eine große Auswahl an Kissen und Kissenbezügen in verschiedenen Farben, Größen und Materialien. Ob für das Wohnzimmer, das Schlafzimmer oder das Kinderzimmer - mit den richtigen Kissen und Kissenbezügen machen Sie überall eine gute Figur. Stöbern Sie jetzt in unserem Sortiment und finden Sie Ihre neuen Lieblingskissen."
                     }
                 ]
             }
