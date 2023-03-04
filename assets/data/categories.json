@@ -2,21 +2,21 @@
     {
         "key": "sitzsäcke",
         "name": "Sitzsäcke",
-        "slug": "sitzsacke",
+        "slug": "sitzsaecke",
         "productCategory": "Sitzsäcke",
         "subCategories": []
     },
     {
         "key": "türvorhänge",
         "name": "Türvorhänge",
-        "slug": "turvorhange",
+        "slug": "tuervorhaenge",
         "productCategory": "Türvorhänge",
         "subCategories": []
     },
     {
         "key": "kissen & kissenbezüge",
         "name": "Kissen & Kissenbezüge",
-        "slug": "kissen-kissenbezuge",
+        "slug": "kissen-kissenbezuege",
         "productCategory": "Kissen & Kissenbezüge",
         "subCategories": []
     }
