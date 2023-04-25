@@ -1,176 +1,179 @@
 {
-    "configIsReady": true,
-    "domain": "wohn-textilien24.de",
-    "hostname": "https://www.wohn-textilien24.de/",
-    "email": "wohn-textilien24.de@surrealnetworks.io",
-    "organization": "wohn-textilien24.de",
-    "logoText": "Wohn-textilien24.de",
-    "title": "Sitzsäcke",
-    "subline": "Für bequemes Sitzen in Ihrem Zuhause!",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "3925245",
-        "7556517",
-        "1349737",
-        "1347665",
-        "1348507",
-        "3782208"
-    ],
-    "winnerProducts": [
-        "1347665",
-        "1350479",
-        "3782208"
-    ],
-    "featuredCategories": [
-        "Sitzsäcke",
-        "Türvorhänge",
-        "Sitzsäcke",
-        "Türvorhänge",
-        "Kissen & Kissenbezüge",
-        "Türvorhänge"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Wohntextilien",
-        "featureText": "Willkommen in unserem Online Shop für Sitzsäcke & Co! Wir bieten Ihnen ein ausgesprochen umfangreiches Sortiment an Sitzsäcken zu günstigen Preisen. Hier findet jeder den passenden Sitzsack: unterschiedliche Formen, Größen, Farben und Stoffe.Bei uns finden Sie Produkte von Marken wie Sitting Ball, Sitting Point, Madison, Wenko, Sonstige und Magma. Überzeugen Sie sich selbst von der Qualität unserer Produkte. ",
-        "index": {
-            "title": "Sitzsäcke & Co. | Günstig online bestellen ",
-            "metaDescription": "Entdecken sie eine unglaubliche Vielfalt an verschiedenen Sitzsäcken. Bei uns werden Sie garantiert fündig! | Ganz einfach online bestellen.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Wohn-Textilien24 - Ihrem Online-Shop für Wohntextilien",
-                        "text": "Herzlich willkommen bei Wohn-Textilien24, Ihrem Online-Shop für hochwertige Wohntextilien. Bei uns finden Sie alles, was Sie für eine gemütliche und stilvolle Einrichtung benötigen. Von Sitzsäcken über Türvorhänge bis hin zu Kissen und Kissenbezügen bieten wir Ihnen eine große Auswahl an Produkten, die Ihrem Zuhause ein besonderes Flair verleihen. Alle unsere Wohntextilien sind aus hochwertigen Materialien gefertigt und bieten Ihnen ein angenehmes Sitz- und Liegegefühl. Stöbern Sie jetzt in unserem Sortiment und entdecken Sie Ihre neuen Lieblingsstücke für Ihr Zuhause!"
-                    },
-                    {
-                        "title": "Sitzsäcke",
-                        "text": "Wenn Sie auf der Suche nach einer bequemen und stylischen Sitzmöglichkeit sind, sind <a href=\"/kategorie/sitzsaecke/\" title=\"Sitzsäcke\">Sitzsäcke</a> genau das Richtige für Sie. In unserem Online-Shop finden Sie eine große Auswahl an Sitzsäcken in verschiedenen Farben, Größen und Materialien. Ob für das Wohnzimmer, das Kinderzimmer oder den Garten - mit einem Sitzsack von Wohn-Textilien24 machen Sie überall eine gute Figur. Stöbern Sie jetzt in unserem Sortiment und finden Sie Ihren neuen Lieblingssitzsack."
-                    },
-                    {
-                        "title": "Türvorhänge",
-                        "text": "<a href=\"/kategorie/tuervorhaenge/\" title=\"Türvorhänge\">Türvorhänge</a> sind eine einfache und effektive Möglichkeit, um den Eingang Ihres Zuhauses zu schmücken und zu schützen. Ob als Sichtschutz oder zur Kontrolle des Lichteinfalls - Türvorhänge sind vielseitig einsetzbar. In unserem Online-Shop finden Sie eine große Auswahl an Türvorhängen in verschiedenen Farben, Größen und Designs. Stöbern Sie jetzt in unserem Sortiment und finden Sie den perfekten Türvorhang für Ihr Zuhause."
-                    },
-                    {
-                        "title": "Kissen & Kissenbezüge",
-                        "text": "Kissen und Kissenbezüge sind eine einfache Möglichkeit, um Ihr Zuhause zu verschönern und bequemer zu gestalten. In unserem Online-Shop finden Sie eine große Auswahl an Kissen und Kissenbezügen in verschiedenen Farben, Größen und Materialien. Ob für das Wohnzimmer, das Schlafzimmer oder das Kinderzimmer - mit den richtigen Kissen und Kissenbezügen machen Sie überall eine gute Figur. Stöbern Sie jetzt in unserem Sortiment und finden Sie Ihre neuen Lieblingskissen."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Der Shop für Sitzsäcke",
-            "metaDescription": "Finden Sie hier den perfekten Sitzsack für Ihr Zuhause. | Riesige Auswahl | Einfache Produktsuche | Faire Preise | Schnelle Lieferung ",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Top Hersteller für Sitzsäcke!",
-            "metaDescription": "Finden Sie eine umfangreiche Herstellerliste für Sitzsäcke. Wir führen Markenanbieter wie Siting Point, Madison, Sitting Ball uvm.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT | günstig kaufen",
-        "defaultMetaDescription": "Entdecken Sie unsere Produkte von tollen Herstellern wie $HERSTELLER. Finden Sie weitere Top Angebote der Kategorie $KATEGORIE. Jetzt $PRODUKT online bestellen!",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "wohn-textilien24.de",
+  "hostname": "https://www.wohn-textilien24.de/",
+  "email": "wohn-textilien24.de@surrealnetworks.io",
+  "organization": "wohn-textilien24.de",
+  "logoText": "Wohn-textilien24.de",
+  "title": "Sitzs\u00e4cke",
+  "subline": "F\u00fcr bequemes Sitzen in Ihrem Zuhause!",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "3925245",
+    "7556517",
+    "1349737",
+    "1347665",
+    "1348507",
+    "3782208"
+  ],
+  "winnerProducts": [
+    "1347665",
+    "1350479",
+    "3782208"
+  ],
+  "featuredCategories": [
+    "Sitzs\u00e4cke",
+    "T\u00fcrvorh\u00e4nge",
+    "Sitzs\u00e4cke",
+    "T\u00fcrvorh\u00e4nge",
+    "Kissen & Kissenbez\u00fcge",
+    "T\u00fcrvorh\u00e4nge"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Wohntextilien",
+    "featureText": "Willkommen in unserem Online Shop f\u00fcr Sitzs\u00e4cke & Co! Wir bieten Ihnen ein ausgesprochen umfangreiches Sortiment an Sitzs\u00e4cken zu g\u00fcnstigen Preisen. Hier findet jeder den passenden Sitzsack: unterschiedliche Formen, Gr\u00f6\u00dfen, Farben und Stoffe.Bei uns finden Sie Produkte von Marken wie Sitting Ball, Sitting Point, Madison, Wenko, Sonstige und Magma. \u00dcberzeugen Sie sich selbst von der Qualit\u00e4t unserer Produkte. ",
+    "index": {
+      "title": "Sitzs\u00e4cke & Co. | G\u00fcnstig online bestellen ",
+      "metaDescription": "Entdecken sie eine unglaubliche Vielfalt an verschiedenen Sitzs\u00e4cken. Bei uns werden Sie garantiert f\u00fcndig! | Ganz einfach online bestellen.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Wohn-Textilien24 - Ihrem Online-Shop f\u00fcr Wohntextilien",
+            "text": "Herzlich willkommen bei Wohn-Textilien24, Ihrem Online-Shop f\u00fcr hochwertige Wohntextilien. Bei uns finden Sie alles, was Sie f\u00fcr eine gem\u00fctliche und stilvolle Einrichtung ben\u00f6tigen. Von Sitzs\u00e4cken \u00fcber T\u00fcrvorh\u00e4nge bis hin zu Kissen und Kissenbez\u00fcgen bieten wir Ihnen eine gro\u00dfe Auswahl an Produkten, die Ihrem Zuhause ein besonderes Flair verleihen. Alle unsere Wohntextilien sind aus hochwertigen Materialien gefertigt und bieten Ihnen ein angenehmes Sitz- und Liegegef\u00fchl. St\u00f6bern Sie jetzt in unserem Sortiment und entdecken Sie Ihre neuen Lieblingsst\u00fccke f\u00fcr Ihr Zuhause!"
+          },
+          {
+            "title": "Sitzs\u00e4cke",
+            "text": "Wenn Sie auf der Suche nach einer bequemen und stylischen Sitzm\u00f6glichkeit sind, sind <a href=\"/kategorie/sitzsaecke/\" title=\"Sitzs\u00e4cke\">Sitzs\u00e4cke</a> genau das Richtige f\u00fcr Sie. In unserem Online-Shop finden Sie eine gro\u00dfe Auswahl an Sitzs\u00e4cken in verschiedenen Farben, Gr\u00f6\u00dfen und Materialien. Ob f\u00fcr das Wohnzimmer, das Kinderzimmer oder den Garten - mit einem Sitzsack von Wohn-Textilien24 machen Sie \u00fcberall eine gute Figur. St\u00f6bern Sie jetzt in unserem Sortiment und finden Sie Ihren neuen Lieblingssitzsack."
+          },
+          {
+            "title": "T\u00fcrvorh\u00e4nge",
+            "text": "<a href=\"/kategorie/tuervorhaenge/\" title=\"T\u00fcrvorh\u00e4nge\">T\u00fcrvorh\u00e4nge</a> sind eine einfache und effektive M\u00f6glichkeit, um den Eingang Ihres Zuhauses zu schm\u00fccken und zu sch\u00fctzen. Ob als Sichtschutz oder zur Kontrolle des Lichteinfalls - T\u00fcrvorh\u00e4nge sind vielseitig einsetzbar. In unserem Online-Shop finden Sie eine gro\u00dfe Auswahl an T\u00fcrvorh\u00e4ngen in verschiedenen Farben, Gr\u00f6\u00dfen und Designs. St\u00f6bern Sie jetzt in unserem Sortiment und finden Sie den perfekten T\u00fcrvorhang f\u00fcr Ihr Zuhause."
+          },
+          {
+            "title": "Kissen & Kissenbez\u00fcge",
+            "text": "Kissen und Kissenbez\u00fcge sind eine einfache M\u00f6glichkeit, um Ihr Zuhause zu versch\u00f6nern und bequemer zu gestalten. In unserem Online-Shop finden Sie eine gro\u00dfe Auswahl an Kissen und Kissenbez\u00fcgen in verschiedenen Farben, Gr\u00f6\u00dfen und Materialien. Ob f\u00fcr das Wohnzimmer, das Schlafzimmer oder das Kinderzimmer - mit den richtigen Kissen und Kissenbez\u00fcgen machen Sie \u00fcberall eine gute Figur. St\u00f6bern Sie jetzt in unserem Sortiment und finden Sie Ihre neuen Lieblingskissen."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE - eine riesige Auswahl",
-        "defaultMetaDescription": "$KATEGORIE für jeden Geschmack! Jetzt ganz einfach und bequem von zuhause online bestellen und liefern lassen.             ",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Der Shop f\u00fcr Sitzs\u00e4cke",
+      "metaDescription": "Finden Sie hier den perfekten Sitzsack f\u00fcr Ihr Zuhause. | Riesige Auswahl | Einfache Produktsuche | Faire Preise | Schnelle Lieferung ",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER | Top Qualität zum fairen Preis",
-        "defaultMetaDescription": "Entdecken Sie die besten Produkte in einer hochwertigen Qualität von Herstellern wie $HERSTELLER. Hier schnell und günstig online bestellen.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Wohntextilien",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Wohntextilien Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Wohntextilien Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Top Hersteller f\u00fcr Sitzs\u00e4cke!",
+      "metaDescription": "Finden Sie eine umfangreiche Herstellerliste f\u00fcr Sitzs\u00e4cke. Wir f\u00fchren Markenanbieter wie Siting Point, Madison, Sitting Ball uvm.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT | g\u00fcnstig kaufen",
+    "defaultMetaDescription": "Entdecken Sie unsere Produkte von tollen Herstellern wie $HERSTELLER. Finden Sie weitere Top Angebote der Kategorie $KATEGORIE. Jetzt $PRODUKT online bestellen!",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE - eine riesige Auswahl",
+    "defaultMetaDescription": "$KATEGORIE f\u00fcr jeden Geschmack! Jetzt ganz einfach und bequem von zuhause online bestellen und liefern lassen.             ",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER | Top Qualit\u00e4t zum fairen Preis",
+    "defaultMetaDescription": "Entdecken Sie die besten Produkte in einer hochwertigen Qualit\u00e4t von Herstellern wie $HERSTELLER. Hier schnell und g\u00fcnstig online bestellen.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Wohntextilien",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Wohntextilien Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Wohntextilien Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
