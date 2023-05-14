@@ -1,212 +1,219 @@
 {
-  "configIsReady": true,
-  "domain": "wohn-textilien24.de",
-  "hostname": "https://www.wohn-textilien24.de/",
-  "email": "wohn-textilien24.de@surrealnetworks.io",
-  "organization": "wohn-textilien24.de",
-  "logoText": "Wohn-textilien24.de",
-  "title": "Sitzsäcke",
-  "subline": "Für bequemes Sitzen in Ihrem Zuhause!",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "3925245",
-    "7556517",
-    "1349737",
-    "1347665",
-    "1348507",
-    "3782208"
-  ],
-  "winnerProducts": [
-    "1347665",
-    "1350479",
-    "3782208"
-  ],
-  "featuredCategories": [
-    "Sitzsäcke",
-    "Türvorhänge",
-    "Sitzsäcke",
-    "Türvorhänge",
-    "Kissen & Kissenbezüge",
-    "Türvorhänge"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Wohntextilien",
-    "featureText": "Willkommen in unserem Online Shop für Sitzsäcke & Co! Wir bieten Ihnen ein ausgesprochen umfangreiches Sortiment an Sitzsäcken zu günstigen Preisen. Hier findet jeder den passenden Sitzsack: unterschiedliche Formen, Größen, Farben und Stoffe.Bei uns finden Sie Produkte von Marken wie Sitting Ball, Sitting Point, Madison, Wenko, Sonstige und Magma. Überzeugen Sie sich selbst von der Qualität unserer Produkte. ",
-    "index": {
-      "title": "Sitzsäcke & Co. | Günstig online bestellen ",
-      "metaDescription": "Entdecken sie eine unglaubliche Vielfalt an verschiedenen Sitzsäcken. Bei uns werden Sie garantiert fündig! | Ganz einfach online bestellen.",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Wohn-Textilien24 - Ihrem Online-Shop für Wohntextilien",
-            "text": "Herzlich willkommen bei Wohn-Textilien24, Ihrem Online-Shop für hochwertige Wohntextilien. Bei uns finden Sie alles, was Sie für eine gemütliche und stilvolle Einrichtung benötigen. Von Sitzsäcken über Türvorhänge bis hin zu Kissen und Kissenbezügen bieten wir Ihnen eine große Auswahl an Produkten, die Ihrem Zuhause ein besonderes Flair verleihen. Alle unsere Wohntextilien sind aus hochwertigen Materialien gefertigt und bieten Ihnen ein angenehmes Sitz- und Liegegefühl. Stöbern Sie jetzt in unserem Sortiment und entdecken Sie Ihre neuen Lieblingsstücke für Ihr Zuhause!"
-          },
-          {
-            "title": "Sitzsäcke",
-            "text": "Wenn Sie auf der Suche nach einer bequemen und stylischen Sitzmöglichkeit sind, sind <a href=\"/kategorie/sitzsaecke/\" title=\"Sitzsäcke\">Sitzsäcke</a> genau das Richtige für Sie. In unserem Online-Shop finden Sie eine große Auswahl an Sitzsäcken in verschiedenen Farben, Größen und Materialien. Ob für das Wohnzimmer, das Kinderzimmer oder den Garten - mit einem Sitzsack von Wohn-Textilien24 machen Sie überall eine gute Figur. Stöbern Sie jetzt in unserem Sortiment und finden Sie Ihren neuen Lieblingssitzsack."
-          },
-          {
-            "title": "Türvorhänge",
-            "text": "<a href=\"/kategorie/tuervorhaenge/\" title=\"Türvorhänge\">Türvorhänge</a> sind eine einfache und effektive Möglichkeit, um den Eingang Ihres Zuhauses zu schmücken und zu schützen. Ob als Sichtschutz oder zur Kontrolle des Lichteinfalls - Türvorhänge sind vielseitig einsetzbar. In unserem Online-Shop finden Sie eine große Auswahl an Türvorhängen in verschiedenen Farben, Größen und Designs. Stöbern Sie jetzt in unserem Sortiment und finden Sie den perfekten Türvorhang für Ihr Zuhause."
-          },
-          {
-            "title": "Kissen & Kissenbezüge",
-            "text": "Kissen und Kissenbezüge sind eine einfache Möglichkeit, um Ihr Zuhause zu verschönern und bequemer zu gestalten. In unserem Online-Shop finden Sie eine große Auswahl an Kissen und Kissenbezügen in verschiedenen Farben, Größen und Materialien. Ob für das Wohnzimmer, das Schlafzimmer oder das Kinderzimmer - mit den richtigen Kissen und Kissenbezügen machen Sie überall eine gute Figur. Stöbern Sie jetzt in unserem Sortiment und finden Sie Ihre neuen Lieblingskissen."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "wohn-textilien24.de",
+    "hostname": "https://www.wohn-textilien24.de/",
+    "email": "wohn-textilien24.de@surrealnetworks.io",
+    "organization": "wohn-textilien24.de",
+    "logoText": "Wohn-textilien24.de",
+    "title": "Sitzsäcke",
+    "subline": "Für bequemes Sitzen in Ihrem Zuhause!",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "3925245",
+        "7556517",
+        "1349737",
+        "1347665",
+        "1348507",
+        "3782208"
+    ],
+    "winnerProducts": [
+        "1347665",
+        "1350479",
+        "3782208"
+    ],
+    "featuredCategories": [
+        "Sitzsäcke",
+        "Türvorhänge",
+        "Sitzsäcke",
+        "Türvorhänge",
+        "Kissen & Kissenbezüge",
+        "Türvorhänge"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Wohntextilien",
+        "featureText": "Willkommen in unserem Online Shop für Sitzsäcke & Co! Wir bieten Ihnen ein ausgesprochen umfangreiches Sortiment an Sitzsäcken zu günstigen Preisen. Hier findet jeder den passenden Sitzsack: unterschiedliche Formen, Größen, Farben und Stoffe.Bei uns finden Sie Produkte von Marken wie Sitting Ball, Sitting Point, Madison, Wenko, Sonstige und Magma. Überzeugen Sie sich selbst von der Qualität unserer Produkte. ",
+        "index": {
+            "title": "Sitzsäcke & Co. | Günstig online bestellen ",
+            "metaDescription": "Entdecken sie eine unglaubliche Vielfalt an verschiedenen Sitzsäcken. Bei uns werden Sie garantiert fündig! | Ganz einfach online bestellen.",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Wohn-Textilien24 - Ihrem Online-Shop für Wohntextilien",
+                        "text": "Herzlich willkommen bei Wohn-Textilien24, Ihrem Online-Shop für hochwertige Wohntextilien. Bei uns finden Sie alles, was Sie für eine gemütliche und stilvolle Einrichtung benötigen. Von Sitzsäcken über Türvorhänge bis hin zu Kissen und Kissenbezügen bieten wir Ihnen eine große Auswahl an Produkten, die Ihrem Zuhause ein besonderes Flair verleihen. Alle unsere Wohntextilien sind aus hochwertigen Materialien gefertigt und bieten Ihnen ein angenehmes Sitz- und Liegegefühl. Stöbern Sie jetzt in unserem Sortiment und entdecken Sie Ihre neuen Lieblingsstücke für Ihr Zuhause!"
+                    },
+                    {
+                        "title": "Sitzsäcke",
+                        "text": "Wenn Sie auf der Suche nach einer bequemen und stylischen Sitzmöglichkeit sind, sind <a href=\"/kategorie/sitzsaecke/\" title=\"Sitzsäcke\">Sitzsäcke</a> genau das Richtige für Sie. In unserem Online-Shop finden Sie eine große Auswahl an Sitzsäcken in verschiedenen Farben, Größen und Materialien. Ob für das Wohnzimmer, das Kinderzimmer oder den Garten - mit einem Sitzsack von Wohn-Textilien24 machen Sie überall eine gute Figur. Stöbern Sie jetzt in unserem Sortiment und finden Sie Ihren neuen Lieblingssitzsack."
+                    },
+                    {
+                        "title": "Türvorhänge",
+                        "text": "<a href=\"/kategorie/tuervorhaenge/\" title=\"Türvorhänge\">Türvorhänge</a> sind eine einfache und effektive Möglichkeit, um den Eingang Ihres Zuhauses zu schmücken und zu schützen. Ob als Sichtschutz oder zur Kontrolle des Lichteinfalls - Türvorhänge sind vielseitig einsetzbar. In unserem Online-Shop finden Sie eine große Auswahl an Türvorhängen in verschiedenen Farben, Größen und Designs. Stöbern Sie jetzt in unserem Sortiment und finden Sie den perfekten Türvorhang für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Kissen & Kissenbezüge",
+                        "text": "Kissen und Kissenbezüge sind eine einfache Möglichkeit, um Ihr Zuhause zu verschönern und bequemer zu gestalten. In unserem Online-Shop finden Sie eine große Auswahl an Kissen und Kissenbezügen in verschiedenen Farben, Größen und Materialien. Ob für das Wohnzimmer, das Schlafzimmer oder das Kinderzimmer - mit den richtigen Kissen und Kissenbezügen machen Sie überall eine gute Figur. Stöbern Sie jetzt in unserem Sortiment und finden Sie Ihre neuen Lieblingskissen."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Der Shop für Sitzsäcke",
+            "metaDescription": "Finden Sie hier den perfekten Sitzsack für Ihr Zuhause. | Riesige Auswahl | Einfache Produktsuche | Faire Preise | Schnelle Lieferung ",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Top Hersteller für Sitzsäcke!",
+            "metaDescription": "Finden Sie eine umfangreiche Herstellerliste für Sitzsäcke. Wir führen Markenanbieter wie Siting Point, Madison, Sitting Ball uvm.",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Der Shop für Sitzsäcke",
-      "metaDescription": "Finden Sie hier den perfekten Sitzsack für Ihr Zuhause. | Riesige Auswahl | Einfache Produktsuche | Faire Preise | Schnelle Lieferung ",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Top Hersteller für Sitzsäcke!",
-      "metaDescription": "Finden Sie eine umfangreiche Herstellerliste für Sitzsäcke. Wir führen Markenanbieter wie Siting Point, Madison, Sitting Ball uvm.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT | günstig kaufen",
-    "defaultMetaDescription": "Entdecken Sie unsere Produkte von tollen Herstellern wie $HERSTELLER. Finden Sie weitere Top Angebote der Kategorie $KATEGORIE. Jetzt $PRODUKT online bestellen!",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "1347665",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT | günstig kaufen",
+        "defaultMetaDescription": "Entdecken Sie unsere Produkte von tollen Herstellern wie $HERSTELLER. Finden Sie weitere Top Angebote der Kategorie $KATEGORIE. Jetzt $PRODUKT online bestellen!",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Sitting Point Sitzsack Beanbag Brava L 120 l Anthrazit",
-              "text": "<p class=\"justify\">Der Sitting Point Sitzsack Beanbag Brava L 120 l Anthrazit ist die perfekte Wahl für alle, die nach einem bequemen und stilvollen Sitzmöbel suchen. Dieser Sitzsack von der renommierten Marke Sitting Point ist nicht nur ein äußerst attraktives Möbelstück, sondern auch extrem praktisch und vielseitig einsetzbar. Mit seiner L-Größe von 120 Litern bietet er ausreichend Platz zum Entspannen, Lesen oder einfach nur Chillen.</p><p class=\"justify\">Die hochwertige Polystyrol-Füllung besteht zu 100% aus Neuware, ist staubfrei und formstabil – das garantiert eine ideale Anpassung an die Körperform und sorgt für einen hohen Komfort. Der anthrazitfarbene Bezug ist aus robustem Material gefertigt, das nicht nur gut aussieht, sondern auch langlebig und pflegeleicht ist.</p><p class=\"justify\">Der Sitting Point Sitzsack Beanbag Brava L eignet sich perfekt für den Einsatz in Wohnzimmer, Schlafzimmer, Jugendzimmer oder sogar auf Terrasse und Balkon. Er passt perfekt zu jedem Einrichtungsstil und ergänzt das vorhandene Mobiliar gekonnt. Ob allein oder kombiniert mit weiteren Sitzsäcken und Wohntextilien – der Beanbag Brava L Anthrazit wird garantiert zum Hingucker in Ihrem Zuhause.</p><p class=\"justify\">Mit einer durchschnittlichen Bewertung von 4 Sternen und über 325 Kundenbewertungen spricht die Qualität und Zufriedenheit der Kunden für sich. Dieser Sitzsack ist nicht nur ein gemütliches und vielseitiges Möbelstück, sondern auch eine hervorragende Investition in Ihren Wohnkomfort. Machen Sie es sich mit dem Sitting Point Sitzsack Beanbag Brava L 120 l Anthrazit so richtig gemütlich und genießen Sie Entspannung und Komfort auf höchstem Niveau.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "1350479",
-        "seo": {
-          "texts": [
-            {
-              "title": "Sitting Point Sitzsack Beanbag Jamie 220 l Sand: Komfort und Qualität",
-              "text": "<p class=\"justify\">Entdecken Sie den Komfort und die Qualität des Sitting Point Sitzsack Beanbag Jamie 220 l Sand. Dieses bequeme Sitzmöbel ist ideal zum Relaxen, Chillen, Abhängen oder einfach zur Entspannung. Genießen Sie gemütliche Stunden, während Sie ein Buch lesen oder sich einfach zurücklehnen und entspannen. Die Marke Sitting Point ist bekannt für ihre hochwertigen Produkte und dieser Sitzsack ist keine Ausnahme.</p><p class=\"justify\">Der Sitting Point Sitzsack Beanbag Jamie hat eine Füllmenge von 220 Litern und ist perfekt für Wohnzimmer, Kinderzimmer oder sogar im Freien. Die sandfarbene Hülle aus Polyester ist strapazierfähig und pflegeleicht, sodass Sie Ihren Sitzsack sorgenfrei nutzen können. Die staubfreie Polystyrol-Füllung besteht zu 100% aus Neuware und bleibt formstabil, sodass der Sitzsack immer in Form bleibt und Ihnen einen hohen Sitzkomfort bietet.</p><p class=\"justify\">Mit 441 Bewertungen und 5 Sternen können Sie sicher sein, dass der Sitting Point Sitzsack Beanbag Jamie 220 l Sand genau das richtige Sitzmöbel für Ihre Bedürfnisse ist. Erhältlich ist der Sitzsack zu einem erschwinglichen Preis von 72,99 Euro. Das ansprechende Design und die hervorragende Qualität machen den Sitting Point Sitzsack zu einer großartigen Ergänzung für Ihr Zuhause oder Ihren Außenbereich.</p><p class=\"justify\">Die Bilder des Sitzsacks zeigen die Qualität und Vielseitigkeit des Produkts und können Ihnen helfen, eine Vorstellung davon zu bekommen, wie der Sitzsack in Ihrem Raum aussehen könnte. Also, worauf warten Sie noch? Gönnen Sie sich den Komfort und die Entspannung, die Ihnen dieser Sitting Point Sitzsack Beanbag Jamie 220 l Sand bieten kann. Machen Sie es sich gemütlich und entspannen Sie sich in Ihrem neuen Lieblings-Sitzmöbel.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "3782208",
-        "seo": {
-          "texts": [
-            {
-              "title": "Sitting Ball Sitzball Felt Senf - Komfortabler und ergonomischer Sitzball",
-              "text": "<p class=\"justify\">Der Sitting Ball Sitzball Felt Senf der Marke Sitting Ball ist eine hervorragende Wahl für alle, die Wert auf ergonomisches und gesundheitsbewusstes Sitzen legen. Mit seinem modernen Design in Senfgelb und Filzoptik passt dieser Sitzball perfekt in jeden Wohnbereich und verleiht ihm eine stilvolle Note. Die Kombination aus ansprechender Optik und praktischen Funktionen macht diesen Sitzball zu einem idealen Wohnaccessoire und einer komfortablen Sitzgelegenheit.</p><p class=\"justify\">Einer der großen Vorteile dieses Sitzballs ist seine ergonomische Form, die Ihnen dabei hilft, Ihr Sitzverhalten zu verbessern. Durch das Sitzen auf dem Ball wird der Rücken geschont und die Wirbelsäule gestärkt. Gleichzeitig kann es dazu beitragen, Verspannungen und Rückenschmerzen vorzubeugen. Mit einem Durchmesser von \\\"dimensions\\\" ist der Sitzball für Personen unterschiedlicher Größen geeignet und bietet Stabilität und Komfort beim Sitzen.</p><p class=\"justify\">Ein weiterer praktischer Aspekt des Sitting Ball Sitzball Felt Senf ist sein leichtes Gewicht und der integrierte Tragegriff. Dies macht den Sitzball besonders leicht zu transportieren und somit auch ideal für den Einsatz im Büro oder anderen Arbeitsumgebungen. Die hochwertige Verarbeitung gewährleistet eine lange Lebensdauer, sodass Sie lange Freude an Ihrem Sitzball haben werden.</p><p class=\"justify\">Insgesamt überzeugt der Sitting Ball Sitzball Felt Senf durch seine ästhetische und ergonomische Gestaltung. Er ist ein echter Blickfang in jedem Raum und eine praktische Möglichkeit, das eigene Sitzverhalten gesünder zu gestalten. Mit seinem ansprechenden Design und den gesundheitlichen Vorteilen ist dieser Sitzball eine Bereicherung für jeden Wohn- und Arbeitsbereich.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE - eine riesige Auswahl",
-    "defaultMetaDescription": "$KATEGORIE für jeden Geschmack! Jetzt ganz einfach und bequem von zuhause online bestellen und liefern lassen.             ",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "1347665",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Sitting Point Sitzsack Beanbag Brava L 120 l Anthrazit",
+                            "text": "<p class=\"justify\">Der Sitting Point Sitzsack Beanbag Brava L 120 l Anthrazit ist die perfekte Wahl für alle, die nach einem bequemen und stilvollen Sitzmöbel suchen. Dieser Sitzsack von der renommierten Marke Sitting Point ist nicht nur ein äußerst attraktives Möbelstück, sondern auch extrem praktisch und vielseitig einsetzbar. Mit seiner L-Größe von 120 Litern bietet er ausreichend Platz zum Entspannen, Lesen oder einfach nur Chillen.</p><p class=\"justify\">Die hochwertige Polystyrol-Füllung besteht zu 100% aus Neuware, ist staubfrei und formstabil – das garantiert eine ideale Anpassung an die Körperform und sorgt für einen hohen Komfort. Der anthrazitfarbene Bezug ist aus robustem Material gefertigt, das nicht nur gut aussieht, sondern auch langlebig und pflegeleicht ist.</p><p class=\"justify\">Der Sitting Point Sitzsack Beanbag Brava L eignet sich perfekt für den Einsatz in Wohnzimmer, Schlafzimmer, Jugendzimmer oder sogar auf Terrasse und Balkon. Er passt perfekt zu jedem Einrichtungsstil und ergänzt das vorhandene Mobiliar gekonnt. Ob allein oder kombiniert mit weiteren Sitzsäcken und Wohntextilien – der Beanbag Brava L Anthrazit wird garantiert zum Hingucker in Ihrem Zuhause.</p><p class=\"justify\">Mit einer durchschnittlichen Bewertung von 4 Sternen und über 325 Kundenbewertungen spricht die Qualität und Zufriedenheit der Kunden für sich. Dieser Sitzsack ist nicht nur ein gemütliches und vielseitiges Möbelstück, sondern auch eine hervorragende Investition in Ihren Wohnkomfort. Machen Sie es sich mit dem Sitting Point Sitzsack Beanbag Brava L 120 l Anthrazit so richtig gemütlich und genießen Sie Entspannung und Komfort auf höchstem Niveau.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "1350479",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Sitting Point Sitzsack Beanbag Jamie 220 l Sand: Komfort und Qualität",
+                            "text": "<p class=\"justify\">Entdecken Sie den Komfort und die Qualität des Sitting Point Sitzsack Beanbag Jamie 220 l Sand. Dieses bequeme Sitzmöbel ist ideal zum Relaxen, Chillen, Abhängen oder einfach zur Entspannung. Genießen Sie gemütliche Stunden, während Sie ein Buch lesen oder sich einfach zurücklehnen und entspannen. Die Marke Sitting Point ist bekannt für ihre hochwertigen Produkte und dieser Sitzsack ist keine Ausnahme.</p><p class=\"justify\">Der Sitting Point Sitzsack Beanbag Jamie hat eine Füllmenge von 220 Litern und ist perfekt für Wohnzimmer, Kinderzimmer oder sogar im Freien. Die sandfarbene Hülle aus Polyester ist strapazierfähig und pflegeleicht, sodass Sie Ihren Sitzsack sorgenfrei nutzen können. Die staubfreie Polystyrol-Füllung besteht zu 100% aus Neuware und bleibt formstabil, sodass der Sitzsack immer in Form bleibt und Ihnen einen hohen Sitzkomfort bietet.</p><p class=\"justify\">Mit 441 Bewertungen und 5 Sternen können Sie sicher sein, dass der Sitting Point Sitzsack Beanbag Jamie 220 l Sand genau das richtige Sitzmöbel für Ihre Bedürfnisse ist. Erhältlich ist der Sitzsack zu einem erschwinglichen Preis von 72,99 Euro. Das ansprechende Design und die hervorragende Qualität machen den Sitting Point Sitzsack zu einer großartigen Ergänzung für Ihr Zuhause oder Ihren Außenbereich.</p><p class=\"justify\">Die Bilder des Sitzsacks zeigen die Qualität und Vielseitigkeit des Produkts und können Ihnen helfen, eine Vorstellung davon zu bekommen, wie der Sitzsack in Ihrem Raum aussehen könnte. Also, worauf warten Sie noch? Gönnen Sie sich den Komfort und die Entspannung, die Ihnen dieser Sitting Point Sitzsack Beanbag Jamie 220 l Sand bieten kann. Machen Sie es sich gemütlich und entspannen Sie sich in Ihrem neuen Lieblings-Sitzmöbel.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "3782208",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Sitting Ball Sitzball Felt Senf - Komfortabler und ergonomischer Sitzball",
+                            "text": "<p class=\"justify\">Der Sitting Ball Sitzball Felt Senf der Marke Sitting Ball ist eine hervorragende Wahl für alle, die Wert auf ergonomisches und gesundheitsbewusstes Sitzen legen. Mit seinem modernen Design in Senfgelb und Filzoptik passt dieser Sitzball perfekt in jeden Wohnbereich und verleiht ihm eine stilvolle Note. Die Kombination aus ansprechender Optik und praktischen Funktionen macht diesen Sitzball zu einem idealen Wohnaccessoire und einer komfortablen Sitzgelegenheit.</p><p class=\"justify\">Einer der großen Vorteile dieses Sitzballs ist seine ergonomische Form, die Ihnen dabei hilft, Ihr Sitzverhalten zu verbessern. Durch das Sitzen auf dem Ball wird der Rücken geschont und die Wirbelsäule gestärkt. Gleichzeitig kann es dazu beitragen, Verspannungen und Rückenschmerzen vorzubeugen. Mit einem Durchmesser von \\\"dimensions\\\" ist der Sitzball für Personen unterschiedlicher Größen geeignet und bietet Stabilität und Komfort beim Sitzen.</p><p class=\"justify\">Ein weiterer praktischer Aspekt des Sitting Ball Sitzball Felt Senf ist sein leichtes Gewicht und der integrierte Tragegriff. Dies macht den Sitzball besonders leicht zu transportieren und somit auch ideal für den Einsatz im Büro oder anderen Arbeitsumgebungen. Die hochwertige Verarbeitung gewährleistet eine lange Lebensdauer, sodass Sie lange Freude an Ihrem Sitzball haben werden.</p><p class=\"justify\">Insgesamt überzeugt der Sitting Ball Sitzball Felt Senf durch seine ästhetische und ergonomische Gestaltung. Er ist ein echter Blickfang in jedem Raum und eine praktische Möglichkeit, das eigene Sitzverhalten gesünder zu gestalten. Mit seinem ansprechenden Design und den gesundheitlichen Vorteilen ist dieser Sitzball eine Bereicherung für jeden Wohn- und Arbeitsbereich.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE - eine riesige Auswahl",
+        "defaultMetaDescription": "$KATEGORIE für jeden Geschmack! Jetzt ganz einfach und bequem von zuhause online bestellen und liefern lassen.             ",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER | Top Qualität zum fairen Preis",
+        "defaultMetaDescription": "Entdecken Sie die besten Produkte in einer hochwertigen Qualität von Herstellern wie $HERSTELLER. Hier schnell und günstig online bestellen.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Wohntextilien",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Wohntextilien Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Wohntextilien Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER | Top Qualität zum fairen Preis",
-    "defaultMetaDescription": "Entdecken Sie die besten Produkte in einer hochwertigen Qualität von Herstellern wie $HERSTELLER. Hier schnell und günstig online bestellen.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Wohntextilien",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Wohntextilien Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Wohntextilien Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
